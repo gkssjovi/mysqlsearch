@@ -8,13 +8,9 @@ This program will allow you to search for text in the entire mysql database.
 ```sh 
 https://github.com/gkssjovi/mysqlsearch.git
 cd mysqlsearch
-yarn
-chmod +x ./dist/main.js
-ln -s $PWD/dist/main.js /usr/local/bin/mysqlsearch
 
-cp config.yaml personal.config.yaml
-mkdir ~/.config/mysqlsearch
-ln -s $PWD/personal.config.yaml ~/.config/mysqlsearch/config.yaml
+chmod +x install.sh
+./install.sh
 ```
 
 # Usage 
