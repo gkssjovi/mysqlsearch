@@ -8,4 +8,4 @@ formatRow: default
 formatCell: match
 table: null
 theme: default
-trimMatchContext: false
+trimMatchContext: true
