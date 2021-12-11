@@ -1,0 +1,11 @@
+host: localhost
+database: null
+user: root
+password: ""
+port: 3306
+limit: 0
+formatRow: default
+formatCell: match
+table: null
+theme: default
+trimMatchContext: false
