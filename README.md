@@ -9,8 +9,7 @@ This program will allow you to search for text in the entire mysql database.
 https://github.com/gkssjovi/mysqlsearch.git
 cd mysqlsearch
 
-chmod +x install.sh
-./install.sh
+chmod +x install.sh && ./install.sh
 ```
 
 # Usage 
